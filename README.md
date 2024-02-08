@@ -1,5 +1,5 @@
 # 📒 Experts Notes
-I developed this project as a challenge of my latest studies on React lessons at [Rocketseat](https://www.rocketseat.com.br).
+I developed this project as a challenge of my latest studies on React lessons at [Rocketseat](https://www.rocketseat.com.br) on NLW.
 
 <br>
 
@@ -15,11 +15,10 @@ I developed this project as a challenge of my latest studies on React lessons at
 
 ## 💻 Project
 
-<!-- This project was developed for practicing the connection between this front-end app and it's API provied by the school and available at links section. The main practice was connecting the API to this front-end project using React Query for caching data. It was used shadcn/ui as component library along with radix. -->
+This project was developed for practicing the basics of React. Here a used tailwind for styling. Also, used browser Speech Recognition API to input converted text.
 
-<!-- **It includes:** A sign up and sign in pages; A dashboard with summary and graphs; A modal form to edit restaurant information; An orders module with status management and view detailed information; A error page. -->
+**It includes:** List of notes with filter by query string; Create with text or voice input; View and remove notes.
 
 ## 🔗 Links
 
 <!-- - [Deploy]() -->
-<!-- - [Back-End API]() -->
