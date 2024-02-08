@@ -21,4 +21,4 @@ This project was developed for practicing the basics of React. Here a used tailw
 
 ## 🔗 Links
 
-<!-- - [Deploy]() -->
+- [Deploy](https://nlw-expert-notes-pi.vercel.app/)
