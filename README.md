@@ -3,9 +3,9 @@ I developed this project as a challenge of my latest studies on React lessons at
 
 <br>
 
-<!-- <p align="center">
-  <img alt="Experts Notes Project Preview" src="" width="100%" />
-</p> -->
+<p align="center">
+  <img alt="Experts Notes Project Preview" src="https://github.com/rcrdk/nlw-expert-notes/blob/main/public/preview.jpg?raw=true" width="100%" />
+</p>
 
 ## 🚀 Techs and Tools
 
